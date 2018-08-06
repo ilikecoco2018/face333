@@ -41,7 +41,7 @@ a{
 	line-height:0.58rem;
 	text-align: center;
 	margin:0 auto 0.39rem;
-	box-shadow:0 0.3rem 0.3rem rgba(0,0,0,0.1);
+	box-shadow:0 0.3rem 0.3rem rgba(143,214,247,0.4);
 }
 #login_page1{
 	background:-webkit-linear-gradient(left,#33d074,#33d14d);
@@ -50,5 +50,11 @@ a{
 	background:-o-linear-gradient(left,#33d074,#33d14d);
 	background:linear-gradient(left,#33d074,#33d14d);
 	line-height:0.58rem;
-	box-shadow:0 0.3rem 0.3rem rgba(0,0,0,0.1);
+	box-shadow:0 0.3rem 0.3rem rgba(109,247,135,0.4);
+}
+.login_page a{
+	display:block;
+	width: 4.69rem;
+	height: 0.58rem;
+	margin:0 auto 0.39rem;
 }

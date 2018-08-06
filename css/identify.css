@@ -1,0 +1,56 @@
+@import url(base.css);
+.face{
+	position:absolute;
+	left:0;
+	bottom:0;
+	right:0;
+	top:0;
+}
+.identify1{
+	width: 4.17rem;
+	height: 5.46rem;
+	background: #f9f9f9;
+	border:0.06rem solid #efefef;
+	margin: 1.9rem auto 0;
+}
+.identify2{
+	width: 1.07rem;
+	height: 0.15rem;
+	/*background: red;*/
+	margin: 1.82rem auto 0;
+}
+.identify2 div{
+	width: 0.15rem;
+	height: 0.15rem;
+	background: #caffe0;
+	border-radius: 50%;
+	float: left;
+}
+#identify3{
+	margin-left:0.08rem;
+	margin-right:0.08rem;
+	background:#5dffa2;
+}
+#identify4{
+	background: #00ff6c;
+}
+.identify5{
+	width: 100%;
+	height: 0.72rem;
+	/*background: pink;*/
+	margin-top: 0.66rem;
+	font-size: 0.38rem;
+	color: #b8b8b8;
+	line-height: 0.72rem;
+	text-align: center;
+}
+.identify6{
+	width: 100%;
+	height: 0.33rem;
+	/*background: pink;*/
+	margin-top: 1.16rem;
+	font-size: 0.16rem;
+	color: #b8b8b8;
+	line-height: 0.33rem;
+	text-align: center;
+}
