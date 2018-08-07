@@ -126,3 +126,8 @@
 	text-align:center;
 	color: #80857d;
 }
+.start a{
+	display: block;
+	width: 3.78rem;
+	height: 0.7rem;
+}

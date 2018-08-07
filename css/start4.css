@@ -157,3 +157,8 @@
 	line-height:0.26rem;
 	text-align: center;
 }
+.start a{
+	display: block;
+	width: 0.2rem;
+	height: 0.2rem;
+}
