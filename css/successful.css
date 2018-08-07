@@ -1,0 +1,67 @@
+@import url(base.css);
+.successful{
+	position: absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+
+}
+.successful1s{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.successful1s img{
+	display: block;
+	width: 100%;
+}
+.successful1s1{
+	display: block;
+	width: 100%;
+	height: 0.44rem;
+	font-size: 0.3rem;
+	color: #fff;
+	line-height: 0.44rem;
+	text-align: center;
+	position: absolute;
+	top:1.46rem;
+}
+.successful1s12{
+	display: block;
+	width: 100%;
+	height: 0.34rem;
+	font-size: 0.2rem;
+	color: #a6e8c4;
+	line-height: 0.34rem;
+	text-align: center;
+	position: absolute;
+	top:1.9rem;
+}
+.successful1s123{
+	width: 3.76rem;
+	height: 0.7rem;
+	background:-webkit-linear-gradient(left,#ffd247,#ffb546);
+	background:-moz-linear-gradient(left,#ffd247,#ffb546);
+	background:-ms-linear-gradient(left,#ffd247,#ffb546);
+	background:-o-linear-gradient(left,#ffd247,#ffb546);
+	background:linear-gradient(left,#ffd247,#ffb546);
+	/*position:absolute;
+	bottom:1.83rem;
+	left:1.92rem;
+*/	border-radius:0.35rem;
+	font-size: 0.22rem;
+	color:#fff;
+	line-height: 0.7rem;
+	text-align: center;
+	box-shadow:0 0.2rem 0.3rem rgba(255,228,145,0.9);
+}
+.successful1s a{
+	display: block;
+	width: 3.76rem;
+	height: 0.7rem;
+	position:absolute;
+	bottom:1.83rem;
+	left:1.92rem;
+	text-decoration:none;
+}	

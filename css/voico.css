@@ -1,0 +1,63 @@
+@import url(base.css);
+.voico{
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	overflow: hidden;
+	background: #c5cbc9;
+}
+.voico1{
+	width:3.24rem;
+	height: 1.28rem;
+	margin: 3.86rem auto 0;
+}
+.voico1 img{
+	display: block;
+	width: 100%;
+}
+.voico2{
+	width: 100%;
+	height: 0.33rem;
+	margin-top:1.06rem;
+	font-size: 0.2rem;
+	color:#80857d;
+	line-height: 0.33rem;
+	text-align: center; 
+}
+.voico3{
+	width: 100%;
+	height: 0.33rem;
+	font-size: 0.2rem;
+	color:#80857d;
+	line-height: 0.33rem;
+	text-align: center; 
+}
+.successful1s123{
+	width: 3.76rem;
+	height: 0.7rem;
+	background:-webkit-linear-gradient(left,#ffd247,#ffb546);
+	background:-moz-linear-gradient(left,#ffd247,#ffb546);
+	background:-ms-linear-gradient(left,#ffd247,#ffb546);
+	background:-o-linear-gradient(left,#ffd247,#ffb546);
+	background:linear-gradient(left,#ffd247,#ffb546);
+	/*position:absolute;
+	bottom:1.83rem;
+	left:1.92rem;
+*/	border-radius:0.35rem;
+	font-size: 0.22rem;
+	color:#fff;
+	line-height: 0.7rem;
+	text-align: center;
+	box-shadow:0 0.2rem 0.3rem rgba(255,228,145,0.9);
+}
+.voico a{
+	display: block;
+	width: 3.76rem;
+	height: 0.7rem;
+	position:absolute;
+	bottom:1.83rem;
+	left:1.92rem;
+	text-decoration:none;
+}	

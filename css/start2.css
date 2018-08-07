@@ -97,9 +97,9 @@
 	background: #e4e4e4;
 	border-radius: 0.35rem;
 	/*margin: 0 auto;*/
-	position:absolute;
+	/*position:absolute;
 	bottom:2rem;
-	right:1.75rem;
+	right:1.75rem;*/
 	font-size: 0.22rem;
 	color:#c9cac8;
 	line-height: 0.7rem;
@@ -130,4 +130,9 @@
 	display: block;
 	width: 3.78rem;
 	height: 0.7rem;
+	text-decoration:none;
+	position:absolute;
+	bottom:2rem;
+	right:1.75rem;
+
 }
